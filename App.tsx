@@ -214,12 +214,12 @@ const App: React.FC = () => {
     if (user) {
       // If logged in and on root, go to dev
       if (path === '') {
-        navigate('support');
+        navigate('dev');
       }
     } else {
       // If not logged in and on root or landing on 'dev', go to dev and open auth modal
-      if (path === '' || path === 'support') {
-        navigate('support');
+      if (path === '' || path === 'dev') {
+        navigate('dev');
         // Automatically open auth modal for guests
         setIsAuthModalOpen(true);
       }
