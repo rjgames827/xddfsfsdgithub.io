@@ -88,7 +88,7 @@ export const MOVIES: Movie[] = [
             {
                 title: "The Super Mario Galaxy Movie",
                 imageUrl: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbQAer_UacWJzfW1n8AREzPD6-MRfyAZT5aBEIhVYZqo0mclfO",
-                link: "https://drive.google.com/file/d/1Sr1dIisyBJgnCbW4WrgSIcLO8uiNSTv2/view?usp=drive_link",
+                link: "https://drive.google.com/file/d/14v5G1i88QriR2cKV-n1OiLFCo849jpaV/view",
                 description: "Mario ventures into space, exploring cosmic worlds and tackling galactic challenges far from the familiar Mushroom Kingdom.",
                 year: "2026"
             },
